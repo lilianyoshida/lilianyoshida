@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @lilianyoshida
-- 👀 I’m interested in nuclear fusion, business, data science and innovation
+- 👀 I’m interested in nuclear fusion, business, data science, UX/UI design and innovation
 - 🌱 I’m currently learning APIs in Python
 - 💞️ I’m looking to collaborate on a data science project
 - 📫 How to reach me: lilian.yoshida.98@gmail.com
