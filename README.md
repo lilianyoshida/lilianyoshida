@@ -4,8 +4,10 @@
 - 💞️ I’m looking to collaborate on a data science project
 - 📫 How to reach me: lilian.yoshida.98@gmail.com
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I won a gold medal in a taekwondo championship fighting against a black belt!
+- ⚡ Fun fact: I beat a black belt and won a gold medal in a taekwondo tournament!
 - 🦉 I also love Duolingo! Let's be friends there: haru_haruminha
+
+
 
 <!---
 lilianyoshida/lilianyoshida is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
