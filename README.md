@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently a master's student in the FUSION-EP program
 
-- 💞️ I’m looking to collaborate on data science projects
+- 💞️ I’m looking to collaborate on fusion & data science projects
 
 - 📫 How to reach me: lilian.yoshida.98@gmail.com, [in/lilian-yoshida](https://www.linkedin.com/in/lilian-yoshida/)
 
