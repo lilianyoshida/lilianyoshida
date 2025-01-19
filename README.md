@@ -6,7 +6,7 @@
 
 - 💞️ I’m looking to collaborate on data science projects
 
-- 📫 How to reach me: lilian.yoshida.98@gmail.com
+- 📫 How to reach me: lilian.yoshida.98@gmail.com, in/lilian-yoshida
 
 - ⚡ Fun fact: I once beat a black belt and won a gold medal in a taekwondo tournament!
 
